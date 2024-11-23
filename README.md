@@ -5,6 +5,7 @@
 ## Description
 
 Using python as the base language to automate two osint tools to gather information on any user while comparing results to visualize similarities in findings.
+**Additional Changes:** using DetectDee via username, email and phoneno and comparing their results with ne another.
 
 <br>
 
